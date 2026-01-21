@@ -9,7 +9,7 @@
 
 #include "cmark-gfm_config.h"
 #include "cmark_ctype.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 
 /* Used as default value for cmark_strbuf->ptr so that people can always
  * assume ptr is non-NULL and zero terminated even for new cmark_strbufs.
