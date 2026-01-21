@@ -53,7 +53,7 @@ SOFTWARE.
 
 -----
 
-buffer.h, buffer.c, chunk.h
+cmark-buffer.h, buffer.c, chunk.h
 
 are derived from code (C) 2012 Github, Inc.
 
