@@ -22,7 +22,7 @@
 #include "scanners.h"
 #include "inlines.h"
 #include "houdini.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 #include "footnotes.h"
 
 #define CODE_INDENT 4

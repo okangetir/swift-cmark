@@ -4,7 +4,7 @@
 
 #include "cmark-gfm.h"
 #include "syntax_extension.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 
 extern cmark_mem CMARK_DEFAULT_MEM_ALLOCATOR;
 

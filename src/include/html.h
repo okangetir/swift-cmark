@@ -1,7 +1,7 @@
 #ifndef CMARK_HTML_H
 #define CMARK_HTML_H
 
-#include "buffer.h"
+#include "cmark-buffer.h"
 #include "node.h"
 
 inline

@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "buffer.h"
+#include "cmark-buffer.h"
 #include "houdini.h"
 #include "utf8.h"
 #include "entities.inc"

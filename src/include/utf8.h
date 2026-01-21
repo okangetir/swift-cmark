@@ -2,7 +2,7 @@
 #define CMARK_UTF8_H
 
 #include <stdint.h>
-#include "buffer.h"
+#include "cmark-buffer.h"
 
 #ifdef __cplusplus
 extern "C" {

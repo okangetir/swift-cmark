@@ -1,7 +1,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-#include "buffer.h"
+#include "cmark-buffer.h"
 #include "chunk.h"
 #include "cmark-gfm.h"
 #include "utf8.h"

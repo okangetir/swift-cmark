@@ -7,7 +7,7 @@
 
 #include "cmark-gfm.h"
 #include "cmark-gfm-extension_api.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 #include "chunk.h"
 
 #ifdef __cplusplus

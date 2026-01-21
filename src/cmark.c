@@ -5,7 +5,7 @@
 #include "node.h"
 #include "houdini.h"
 #include "cmark-gfm.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 
 cmark_node_type CMARK_NODE_LAST_BLOCK = CMARK_NODE_FOOTNOTE_DEFINITION;
 cmark_node_type CMARK_NODE_LAST_INLINE = CMARK_NODE_ATTRIBUTE;

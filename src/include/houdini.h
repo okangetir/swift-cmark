@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 #include "cmark-gfm_config.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 
 #ifdef __cplusplus
 extern "C" {

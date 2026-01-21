@@ -7,7 +7,7 @@
 #include "cmark-gfm_config.h"
 #include "cmark-gfm.h"
 #include "node.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 #include "utf8.h"
 #include "scanners.h"
 #include "render.h"

@@ -7,7 +7,7 @@
 
 #include "references.h"
 #include "node.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 
 #ifdef __cplusplus
 extern "C" {

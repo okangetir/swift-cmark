@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <assert.h>
 #include "cmark-gfm.h"
-#include "buffer.h"
+#include "cmark-buffer.h"
 #include "cmark_ctype.h"
 
 #define CMARK_CHUNK_EMPTY                                                      \
